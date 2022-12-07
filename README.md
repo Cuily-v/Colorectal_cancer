@@ -10,3 +10,6 @@
 ## Accuracy verification
 1. [TRRUST](https://www.grnpedia.org/trrust/): a manually curated database of human and mouse transcriptional regulatory networks.  
 2. [RegNetwork](https://regnetworkweb.org/home.jsp): RegNetwork integrates the curated regulations in various databases and the potential regulations inferred based on the transcription factor binding sites (TFBSs).  
+## pySCENIC
+1. [hs_hgnc_tfs](https://github.com/aertslab/pySCENIC/tree/master/resources)  
+2. [motifs-v9-nr.hgnc-m0.001-o0.0.tbl](https://resources.aertslab.org/cistarget/)  
