@@ -6,7 +6,7 @@
 1. [Gene Expression Nebulas Database](https://ngdc.cncb.ac.cn/gen/): scRNA-seq data.  
 2. [Gene Expression Omnibus Database](https://www.ncbi.nlm.nih.gov/geo/): scATAC-seq data.  
 ##  Visualization of gene regulatory networks
-1. [GRAND](https://grand.networkmedicine.org/):Visualization of gene regulatory networks.  
+1. [GRAND](https://grand.networkmedicine.org/): Visualization of gene regulatory networks. GRAND is a collection of gene regulatory networks derived from human tissues, cancer, cell lines, and small molecule drugs.     
 ## Accuracy verification
-1. [TRRUST](https://www.grnpedia.org/trrust/)  
-2. [RegNetwork](https://regnetworkweb.org/home.jsp)  
+1. [TRRUST](https://www.grnpedia.org/trrust/): a manually curated database of human and mouse transcriptional regulatory networks.  
+2. [RegNetwork](https://regnetworkweb.org/home.jsp): RegNetwork integrates the curated regulations in various databases and the potential regulations inferred based on the transcription factor binding sites (TFBSs).  
