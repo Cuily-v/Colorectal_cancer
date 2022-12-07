@@ -13,3 +13,4 @@
 ## pySCENIC
 1. [hs_hgnc_tfs](https://github.com/aertslab/pySCENIC/tree/master/resources)  
 2. [motifs-v9-nr.hgnc-m0.001-o0.0.tbl](https://resources.aertslab.org/cistarget/)  
+3. [hg38__refseq-r80__10kb_up_and_down_tss.mc9nr.feather](https://resources.aertslab.org/cistarget/databases/homo_sapiens/hg38/refseq_r80/mc_v10_clust/gene_based)
